@@ -38,8 +38,8 @@ public class Student {
 		    }
 
 		    public static void main(String[] args) {
-		        Student s1 = new Student("Renz Madayag", "251-0416-1", 85.0);
-		        Student s2 = new Student("Jason Titum", "251-1160-1", 88.5);
+		        Student s1 = new Student("De Guzman,Jayson C.", "251-0223-1", 85.0);
+		        Student s2 = new Student("jumong", "251-1160-1", 88.5);
 
 		        s1.setGrade(92.0); // change one grade using the setter
 
